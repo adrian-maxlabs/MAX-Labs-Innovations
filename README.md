@@ -1,7 +1,7 @@
 <div align="center">
   
 # MAX Labs Innovations
-**Turning complex problems into elegant digital solutions.**
+**Maxing out the potential of your business by offering a scalable, fast, reliable and enterprise level software solution.**
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
@@ -25,10 +25,11 @@ We specialize in the **"Modern Web Trifecta"** (Next.js + Supabase + Vercel) to 
 
 ### The Toolbox
 - **Framework:** Next.js (App Router) & React.js
-- **Styling:** TailwindCSS
+- **Frontend:** TailwindCSS, ShadCN UI
 - **Type Safety:** TypeScript
-- **Backend-as-a-Service:** Supabase
+- **Backend:** Supabase, SQL, Python
 - **Hosting/CI/CD:** Vercel
+- **Automation:** GoHighLevel (GHL), N8N
 
 ---
 
