@@ -18,4 +18,4 @@ We build exclusively with modern, type-safe, and scalable technologies:
 
 ---
 *“Turning complex problems into elegant code.”*
-[Contact Us] | [Portfolio] | [LinkedIn]
+[maxlabs.systems@gmail.com]
